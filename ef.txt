@@ -1,0 +1,55 @@
+<table class=striped>
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Carta</th>
+                                <th>Cantidad</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            <tr>
+                                <td>Alvin</td>
+                                <td>Eclair</td>
+                                <td>$0.87</td>
+                            </tr>
+                            <tr>
+                                <td>Alan</td>
+                                <td>Jellybean</td>
+                                <td>$3.76</td>
+                            </tr>
+                            <tr>
+                                <td>Jonathan</td>
+                                <td>Lollipop</td>
+                                <td>$7.00</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                    <div class="grid-example col s12">
+                    <div class="card-panel hoverable center-align">
+                        <h5 class="center-align">Registro cartas</h5>
+                        <div class="row">
+                            <form class="col s12">
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <input id="user" type="text" class="validate">
+                                        <label for="user">Numero</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="input-field col s12">
+                                        <input id="user" type="text" class="validate">
+                                        <label for="user">Carta</label>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col s12 center-align">
+                                        <a id="login"
+                                            class="waves-effect waves-light btn-small grey darken-2">Ingresar</a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
